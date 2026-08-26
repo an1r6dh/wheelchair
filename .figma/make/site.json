@@ -1,0 +1,17 @@
+{
+  "title": "Wheelchair — AI Mobility Dashboard",
+  "description": "Control and monitor smart mobility devices with an intuitive dashboard featuring real-time telemetry, movement controls, and safety features for enhanced user experience.",
+  "icons": {
+    "icon": "/favicon.svg"
+  },
+  "openGraph": {
+    "image": "/favicon.svg"
+  },
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
